@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: '/eve1inecode'
+baseurl: ''
 url: 'https://sinijeong.github.io/'
 
 # THEME-SPECIFIC CONFIGURATION
